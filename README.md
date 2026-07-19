@@ -19,8 +19,6 @@ I build production AI applications, secure backend services, and distributed sys
 | --- | --- | --- |
 | **Inspectra** | Orchestrates SAST, DAST, and AI/LLM red-team pipelines for automated security assessment | FastAPI, Next.js, LangChain, Azure, Docker |
 | **HireNEXT** | Automates job description generation, CV analysis, candidate shortlisting, and interview preparation | Next.js, TypeScript, Supabase, Azure OpenAI |
-| **Depot Sync System** | Synchronizes inventory and orders between remote and local pharmacy systems with conflict resolution and retries | Go, Iris, GORM, MySQL, Redis |
-| **School Management System** | Supports curriculum, routine, academic, and result workflows through production-grade APIs | Go, Iris, GORM, PostgreSQL, Redis |
 
 > Some professional projects are proprietary, so their source code is not publicly available. More details are available on my [portfolio](https://isratnoumi.github.io/Noumi-portfolio/#projects).
 
