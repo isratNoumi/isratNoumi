@@ -1,11 +1,11 @@
 <!-- Animated wave header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:C8FF2B&height=200&section=header&text=Israt%20Moyeen%20Noumi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Go%20Backend%20Developer&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:7C3AED,100:A78BFA&height=200&section=header&text=Israt%20Moyeen%20Noumi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Go%20Backend%20Developer&descAlignY=58&descSize=16" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://isratnoumi.github.io/Noumi-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=C8FF2B&center=true&vCenter=true&width=720&lines=Building+production+AI+applications;Agentic+AI+security+workflows;LLM-powered+products+%26+RAG+systems;Concurrent+Go+backend+services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+production+AI+applications;Agentic+AI+security+workflows;LLM-powered+products+%26+RAG+systems;Concurrent+Go+backend+services" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,6 @@
 <a href="mailto:isratmoyeen.23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
-
 
 
 </div>
@@ -86,7 +85,6 @@ I build production AI applications, secure backend services, and distributed sys
 </p>
 
 
-
 ## Research
 
 **Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**  
@@ -113,6 +111,6 @@ IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 — *Under Rev
 
 ### The best way to reach me is at **[isratmoyeen.23@gmail.com](mailto:isratmoyeen.23@gmail.com)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8FF2B,50:6A5ACD,100:8A2BE2&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:8A2BE2&height=120&section=footer" alt="footer" />
 
 </div>
