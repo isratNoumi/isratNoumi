@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=isratnoumi&label=Profile%20views&color=8A2BE2&style=flat" alt="profile views" />
+
 
 </div>
 
@@ -85,21 +85,7 @@ I build production AI applications, secure backend services, and distributed sys
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-## GitHub stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isratnoumi&show_icons=true&hide_border=true&count_private=true&title_color=C8FF2B&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratnoumi&layout=compact&hide_border=true&title_color=C8FF2B&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isratnoumi&hide_border=true&background=0d1117&stroke=8A2BE2&ring=C8FF2B&fire=C8FF2B&currStreakLabel=C8FF2B&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="streak" />
-
-<!-- Contribution snake (requires a GitHub Action to generate the SVG) -->
-<img src="https://raw.githubusercontent.com/isratnoumi/isratnoumi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 
 ## Research
 
