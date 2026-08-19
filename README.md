@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <a href="https://isratnoumi.github.io/Noumi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/isratnoumi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/israt-moyeen-noumi-aa3b9a228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://isratnoumi.github.io/Noumi-portfolio/resume.pdf"><img src="https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <a href="mailto:isratmoyeen.23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
