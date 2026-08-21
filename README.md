@@ -2,7 +2,7 @@
 
 <!-- Banner (links to portfolio) -->
 <a href="https://isratnoumi.github.io/Noumi-portfolio/">
-  <img width="100%" src="./assets/banner.svg" alt="Israt Moyeen Noumi — AI Engineer · Full-Stack Engineer · Go Backend Developer" />
+  <img width="100%" src="./banner.svg" alt="Israt Moyeen Noumi — AI Engineer · Full-Stack Engineer · Go Backend Developer" />
 </a>
 
 <!-- Typing animation -->
