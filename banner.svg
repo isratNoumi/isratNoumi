@@ -1,0 +1,57 @@
+<svg width="1500" height="420" viewBox="0 0 1500 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Israt Moyeen Noumi — AI Engineer, Full-Stack Engineer, Go Backend Developer">
+  <defs>
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientTransform="translate(430 210) scale(900 520)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141416"/>
+      <stop offset="1" stop-color="#050506"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1300 210) scale(460 460)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="90" y1="150" x2="980" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CFEFF6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="92" y1="0" x2="330" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0 H0 V42" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="420" rx="24" fill="#050506"/>
+  <rect width="1500" height="420" rx="24" fill="url(#vignette)"/>
+  <rect width="1500" height="420" rx="24" fill="url(#grid)"/>
+  <rect width="1500" height="420" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1498" height="418" rx="23" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+
+  <!-- terminal chip -->
+  <g transform="translate(92 90)">
+    <rect x="0" y="0" width="210" height="42" rx="10" fill="#0C0C0E" stroke="#22D3EE" stroke-opacity="0.25"/>
+    <circle cx="24" cy="21" r="5" fill="#FF5F56"/>
+    <circle cx="42" cy="21" r="5" fill="#FFBD2E"/>
+    <circle cx="60" cy="21" r="5" fill="#27C93F"/>
+    <text x="82" y="27" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="16" fill="#7DE3F4" font-weight="600">~/noumi $</text>
+  </g>
+
+  <!-- name -->
+  <text x="90" y="230" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="84" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Israt Moyeen Noumi</text>
+
+  <!-- accent underline -->
+  <rect x="94" y="254" width="240" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- roles -->
+  <text x="94" y="314" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="29" font-weight="600" fill="#9AA3AD">AI Engineer<tspan fill="#22D3EE"> &#8226; </tspan>Full-Stack Engineer<tspan fill="#22D3EE"> &#8226; </tspan>Go Backend Developer</text>
+
+  <!-- portfolio url -->
+  <text x="94" y="360" font-family="'Fira Code',ui-monospace,monospace" font-size="17" fill="#5B646E">isratnoumi.github.io/Noumi-portfolio</text>
+
+  <!-- code bracket motif -->
+  <g opacity="0.7" transform="translate(1250 150)" stroke="#22D3EE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M40 0 L0 60 L40 120" stroke-opacity="0.65"/>
+    <path d="M150 0 L190 60 L150 120" stroke-opacity="0.65"/>
+    <path d="M108 -6 L82 126" stroke="#38BDF8" stroke-opacity="0.9"/>
+  </g>
+</svg>
