@@ -107,10 +107,10 @@ A recruitment platform that automates the modern hiring funnel end to end — **
 
 ## Research
 
-**𝗕𝗲𝗻-𝗠𝗶𝘀𝗮𝗻𝗱𝗿𝘆: 𝗖𝗹𝗼𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗕𝗶𝗱𝗶𝗿𝗲𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗚𝗮𝗽 𝗶𝗻 𝗕𝗲𝗻𝗴𝗮𝗹𝗶 𝗚𝗲𝗻𝗱𝗲𝗿 𝗛𝗮𝘁𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 𝗟𝗮𝘁𝗲 𝗙𝘂𝘀𝗶𝗼𝗻**  
+**Ben-Misandry: Closing the Bidirectional Gap in Bengali Gender Hate Detection through Transformer Late Fusion**  
  3rd IEEE International Conference on Computing, Applications and Systems (COMPAS 2026) — *Accepted*
 
-**𝗦𝗽𝗶𝗻𝗼𝗙𝘂𝘀𝗲𝗡𝗲𝘁: 𝗔 𝗣𝗮𝗿𝗮𝗺𝗲𝘁𝗲𝗿-𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗙𝗲𝗮𝘁𝘂𝗿𝗲-𝗙𝘂𝘀𝗶𝗼𝗻 𝗘𝗻𝘀𝗲𝗺𝗯𝗹𝗲 𝘄𝗶𝘁𝗵 𝗗𝘂𝗮𝗹 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗚𝗮𝘁𝗶𝗻𝗴 𝗳𝗼𝗿 𝗟𝘂𝗺𝗯𝗮𝗿 𝗦𝗽𝗶𝗻𝗲 𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗦𝗲𝘃𝗲𝗿𝗶𝘁𝘆 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻**  
+**SpinoFuseNet: A Parameter-Efficient Feature-Fusion Ensemble with Dual Attention Gating for Lumbar Spine Degenerative Severity Classification**  
  3rd IEEE International Conference on Computing, Applications and Systems (COMPAS 2026) — *Accepted*
 
 **Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**  
