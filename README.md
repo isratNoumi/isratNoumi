@@ -113,6 +113,9 @@ A recruitment platform that automates the modern hiring funnel end to end — **
 **SpinoFuseNet: A Parameter-Efficient Feature-Fusion Ensemble with Dual Attention Gating for Lumbar Spine Degenerative Severity Classification**  
  3rd IEEE International Conference on Computing, Applications and Systems (COMPAS 2026) — *Accepted*
 
+**Trust-Gated Capability Control: Breaking the Trust–Vulnerability Paradox in Multi-Agent LLM Systems**  
+ 1st International Conference on Next-Generation Electrical & Electronics, Computer Systems, and Technologies (iCONEECT 2026)  — *Accepted*
+
 **Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**  
 IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 — *Under Review*
 
