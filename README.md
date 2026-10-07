@@ -117,7 +117,7 @@ A recruitment platform that automates the modern hiring funnel end to end — **
  1st International Conference on Next-Generation Electrical & Electronics, Computer Systems, and Technologies (iCONEECT 2026)  — *Accepted*
 
 **Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**  
-IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 — *Under Review*
+IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 — *Under Review* - [Arxiv Link](https://arxiv.org/pdf/2608.21423)
 
 **PulmoLiteNet: A Lightweight, Parameter-Efficient Architecture for Lung Cancer Histopathology Classification**  
 5th IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON), 2026 — *Accepted*
