@@ -115,6 +115,7 @@ A recruitment platform that automates the modern hiring funnel end to end — **
 
 **Trust-Gated Capability Control: Breaking the Trust–Vulnerability Paradox in Multi-Agent LLM Systems**  
  1st International Conference on Next-Generation Electrical & Electronics, Computer Systems, and Technologies (iCONEECT 2026)  — *Accepted*  - [Arxiv Link](https://arxiv.org/pdf/2610.07000)
+ 
 **Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**  
 IEEE Transactions on Dependable and Secure Computing (TDSC), 2026 — *Under Review* - [Arxiv Link](https://arxiv.org/pdf/2608.21423)
 
